@@ -20,10 +20,21 @@ Also worked with: C, C++, Assembly, C#/.NET, Python, React Native
 
 Industries: e-commerce, healthcare, edtech, SaaS
 
+## How I think about product
+
+- _Building it right_ isn't hard thing. _Building the right thing_ is.
+- **Talk to users constantly.** Watch what they do, not just what they say.
+- **First make it work, then perfect it.** Ship something usable, learn, iterate.
+
 ## Beyond code
 
 Brazilian zouk dancer · Outdoors · Always reading something
 
 ## Get in touch
 
-[Blog](https://antonzolotov.com) · [Twitter](https://twitter.com/azolotov) · [LinkedIn](https://linkedin.com/in/azolotov) · [anton@gunpowderlabs.com](mailto:anton@gunpowderlabs.com)
+[Blog][1] · [Twitter][2] · [LinkedIn][3] · [anton@gunpowderlabs.com][4]
+
+[1]:	https://antonzolotov.com
+[2]:	https://twitter.com/azolotov
+[3]:	https://linkedin.com/in/azolotov
+[4]:	mailto:anton@gunpowderlabs.com
